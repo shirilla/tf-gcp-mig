@@ -1,6 +1,8 @@
 created-date: 4/4/2025
 created-by: Matt Shirilla
+
 Loadbalancer and associated resources with MIGs.
+The startup script installs ngix that listens on 80.
 
 
 
